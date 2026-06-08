@@ -224,16 +224,6 @@ streamlit run bwa_frontend.py
 
 ---
 
-## 🧪 Example Topics
-
-* Building Production-Ready Multi-Agent Systems with LangGraph
-* Agentic AI Design Patterns
-* RAG vs Agentic RAG
-* How LangGraph Works: Router, Planner, Workers, and Reducers Explained
-* AI Agent Architectures for Enterprise Applications
-
----
-
 ## 📈 What This Project Demonstrates
 
 * Agentic AI Design
