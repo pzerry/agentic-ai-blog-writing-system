@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-core
+langchain-groq
+duckduckgo-search
+python-dotenv
+langsmith
+streamlit
+pydantic
